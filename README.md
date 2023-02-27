@@ -1,5 +1,7 @@
 ### hello there 👋
-## my name is afsar shaikh and i'm a web developer
+### my name is afsar shaikh and i'm a web developer
+
+i can develop dyanmic web applications using  LARAVEL and also work on DJANGO & .NET as well
 
 <!--
 **krazzylazy/krazzylazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
