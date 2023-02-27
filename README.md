@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello there 👋
+## my name is afsar shaikh and i'm a web developer
 
 <!--
 **krazzylazy/krazzylazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
