@@ -1,19 +1,14 @@
-### hello there 👋
-### my name is afsar shaikh and i'm a web developer
+### Hi there 👋
+I'm **Afsar Shaikh**, a web developer with a strong focus on creating dynamic web applications. Here's a bit about my journey and skills:
 
-i can develop dyanmic web applications using  LARAVEL and also work on DJANGO & .NET as well
+- 🌐 **Experience**: Over 2 years of hands-on experience in **Laravel + Livewire**, and proficient in **Python** with **Django**.
+- 🔧 **Background**: Previously worked for 4-5 years (2016-2021) with **.NET** technologies, focusing on **Winforms** and **ASP.NET Webforms**.
+- 📈 **Projects**: Developed custom **APMC software** for private APMCs and built institution-specific web applications using Laravel.
+- 🚀 **Currently**: Actively working with **Laravel** and **Flutter** to build responsive web and mobile applications.
 
-<!--
-**krazzylazy/krazzylazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with me
+- **Instagram**: [@afsarcodes](https://instagram.com/afsarcodes)
+- **Twitter**: [@afsarcodes](https://twitter.com/afsarcodes)
+- **Email**: [afsashaikh@protonmail.com](mailto:afsashaikh@protonmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you're interested in collaborating or have questions about Laravel, Flutter, or other development technologies I work with!
