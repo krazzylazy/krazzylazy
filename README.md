@@ -1,14 +1,28 @@
-### Hi there 👋
-I'm **Afsar Shaikh**, a web developer with a strong focus on creating dynamic web applications. Here's a bit about my journey and skills:
+### Hi 👋 I’m **Afsar Shaikh**
 
-- 🌐 **Experience**: Over 2 years of hands-on experience in **Laravel + Livewire**, and proficient in **Python** with **Django**.
-- 🔧 **Background**: Previously worked for 4-5 years (2016-2021) with **.NET** technologies, focusing on **Winforms** and **ASP.NET Webforms**.
-- 📈 **Projects**: Developed custom **APMC software** for private APMCs and built institution-specific web applications using Laravel.
-- 🚀 **Currently**: Actively working with **Laravel** and **Flutter** to build responsive web and mobile applications.
+A software developer focused on building clean, scalable web and mobile applications.
 
-### 📫 Connect with me
-- **Instagram**: [@afsarcodes](https://instagram.com/afsarcodes)
-- **Twitter**: [@afsarcodes](https://twitter.com/afsarcodes)
-- **Email**: [afsashaikh@protonmail.com](mailto:afsashaikh@protonmail.com)
+**Primary Stack (Priority Order)**
 
-Feel free to reach out if you're interested in collaborating or have questions about Laravel, Flutter, or other development technologies I work with!
+1. **.NET** – Working since **2016**
+   *WinForms & ASP.NET WebForms (2016–2020), now back with **.NET 8** and currently working on **.NET 10***
+2. **Flutter** – Cross-platform mobile apps (started late **2023**)
+3. **Laravel** – 2+ years with Livewire for dynamic web apps
+
+**What I do**
+
+* Build custom business software (APMC & institution-specific systems)
+* Develop modern APIs and full-stack applications
+* Create responsive web & mobile solutions with clean, maintainable architecture
+
+**Also worked with**
+
+* Python (Django)
+
+### Connect
+
+* **Instagram**: [@afsarcodes](https://instagram.com/afsarcodes)
+* **Twitter/X**: [@afsarcodes](https://twitter.com/afsarcodes)
+* **Email**: [afsarshaikh@protonmail.com](mailto:afsarshaikh@protonmail.com)
+
+Open to collaboration and meaningful projects.
