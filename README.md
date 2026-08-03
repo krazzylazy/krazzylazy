@@ -1,28 +1,21 @@
-### Hi 👋 I’m **Afsar Shaikh**
+### Hi 👋 I'm **Afsar Shaikh**
+Software developer building clean, scalable web and mobile applications.
 
-A software developer focused on building clean, scalable web and mobile applications.
+**Primary Stack**
+1. **Laravel** — Backend & full-stack web development with Livewire for dynamic apps (since 2022)
+2. **Flutter** — Cross-platform mobile development (since 2023)
 
-**Primary Stack (Priority Order)**
+**What I Do**
+* Custom business software for institutions and enterprises (APMC systems, etc.)
+* API development and full-stack applications
+* Responsive, maintainable web and mobile solutions
 
-1. **.NET** – Working since **2016**
-   *WinForms & ASP.NET WebForms (2016–2020), now back with **.NET 8** and currently working on **.NET 10***
-2. **Flutter** – Cross-platform mobile apps (started late **2023**)
-3. **Laravel** – 2+ years with Livewire for dynamic web apps
-
-**What I do**
-
-* Build custom business software (APMC & institution-specific systems)
-* Develop modern APIs and full-stack applications
-* Create responsive web & mobile solutions with clean, maintainable architecture
-
-**Also worked with**
-
+**Also Works With**
 * Python (Django)
 
-### Connect
-
-* **Instagram**: [@afsarcodes](https://instagram.com/afsarcodes)
-* **Twitter/X**: [@afsarcodes](https://twitter.com/afsarcodes)
-* **Email**: [afsarshaikh@protonmail.com](mailto:afsarshaikh@protonmail.com)
+**Connect**
+* Instagram: [@afsarcodeslumix](https://instagram.com/afsarcodeslumix)
+* Twitter/X: [@afsarcodes](https://twitter.com/afsarcodes)
+* Email: [afsarshaikh@protonmail.com](mailto:afsarshaikh@protonmail.com)
 
 Open to collaboration and meaningful projects.
